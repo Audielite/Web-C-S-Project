@@ -1,0 +1,190 @@
+li {
+  font-style: italic;
+  color: #000000;
+}
+
+body{
+  background-image: url('luxury-car-fight.jpg');
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+  text-shadow: 2px 2px #0000ff;
+}
+
+h3{
+  color: red;
+  text-shadow: 0 0 3px #ffffff;
+}
+
+p{
+  color: white;
+}
+.cars, #amg{
+  color: white;
+    text-shadow: 2px 2px 4px #ffffff;
+}
+
+form{
+  color: Black;
+}
+
+#res, #sub{
+  color: black;
+}
+
+#hi{
+  color: black;
+  text-shadow: 0 0 3px #ffffff;
+  text-indent: 15px;
+}
+
+#top{
+  color: black;
+  text-shadow: 0 0 3px #ffffff;
+  text-indent: 25px;
+}
+
+#ece{
+  color: black;
+  text-shadow: 0 0 3px white;
+}
+
+#edi, #BMWedi, #Audiedi{
+  color: black;
+}
+
+#update{
+  color: #ffffff;
+  text-shadow: 0 0 6px black;
+}
+
+#sign{
+  color: black;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Style tabs */
+.Hometablink {
+  background-color: #000000;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 24px;
+  width: 25%;
+}
+
+/*-------*/
+
+.Auditablink {
+  background-color: #000000;
+  color: red;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 24px;
+  width: 25%;
+}
+
+/* Style tabs with the hover feature */
+.Auditablink:hover {
+  background-color: red;
+  background-position: center;
+  color: #000000;
+}
+
+/* Style the content inside the tabs*/
+.Auditabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#AudiHome {
+  background-image: url('Audi.jpg');
+  background-position: center;
+}
+
+/*-------*/
+
+.BMWtablink {
+  background-color: #000000;
+  color: #0000ff;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 24px;
+  width: 25%;
+}
+
+.BMWtablink:hover {
+  background-color: #0000ff;
+  background-position: center;
+  color: #FFFFFF
+}
+
+.BMWtabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#BMWHome {
+  background-image: url('BMW-Logo.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/*-------*/
+
+.Merctablink {
+  background-color: #000000;
+  color: #a6a6a6;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 24px;
+  width: 25%;
+}
+
+.Merctablink:hover {
+  background-color: #a6a6a6;
+  background-position: center;
+  color: #000000
+}
+
+.Merctabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#MercHome {
+  background-image: url('md.jpg');
+  background-position: center;
+  image: '212.jpg';
+}
