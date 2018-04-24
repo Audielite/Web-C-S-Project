@@ -4,7 +4,7 @@ li {
 }
 
 body{
-  background-image: url('luxury-car-fight.jpg');
+  background-image: url('images/luxury-car-fight.jpg');
   background-position: center;
   background-size: cover;
   margin: 0;
@@ -119,7 +119,7 @@ body, html {
 }
 
 #AudiHome {
-  background-image: url('Audi.jpg');
+  background-image: url('images/Audi.jpg');
   background-position: center;
 }
 
@@ -151,7 +151,7 @@ body, html {
 }
 
 #BMWHome {
-  background-image: url('BMW-Logo.jpg');
+  background-image: url('images/BMW-Logo.jpg');
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -184,7 +184,7 @@ body, html {
 }
 
 #MercHome {
-  background-image: url('md.jpg');
+  background-image: url('images/md.jpg');
   background-position: center;
-  image: '212.jpg';
+  image: 'images/212.jpg';
 }
